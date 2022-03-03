@@ -1,0 +1,10 @@
+print("Data Types")
+print("")
+print("C.R.I.B.S")
+print("")
+print("C = Character e.g. single letter")
+print("R = Real e.g. decimal number")
+print("I = Integers e.g. whole number")
+print("B = Boolean e.g. True or False")
+print("S = String e.g. Alpha-Numeric") 
+
