@@ -1,0 +1,7 @@
+import random
+num=random.randint(1,10)
+correct=False
+while correct== False:
+    guess=int(input("please pick a number between 1 and 10"))
+    if guess == num:
+     correct=True
